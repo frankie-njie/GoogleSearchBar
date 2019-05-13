@@ -1,0 +1,53 @@
+body{
+  font-family: arial, verdana, sans-serif;
+  font-size: : 16px;
+}
+nav{
+  width: 100%;
+  height: 60px;
+  padding: 10px;
+  text-align: right;
+  word-spacing: 15px;
+  margin-left: -10px;
+
+}
+a{
+text-decoration: none;
+color: black;
+}
+a:hover{
+  text-decoration: underline;
+}
+div{
+  padding-right: 30%;
+  padding-left:  35%;
+  padding-top: 15%;
+}
+img.google{
+   width: 300px;
+   height: 90;
+}
+img.userLogo{
+  width: 30px;
+  height: 25px;
+  display: inline;
+}
+
+input{
+  width: 550px;
+  height: 40px;
+  background: #ffffff;
+  margin-left: 25%;
+  padding-left: 10px;
+  -webkit-border-radius: 80px;
+  border-radius: 80px;
+  -webkit-box-shadow : 0px 0px 4px 0px #000000;
+  box-shadow : 0px 0px 4px 0px #000000;
+  border: none;
+}
+input:hover{
+background-color: #D3D3D3;
+}
+input:active{
+  border-style: none;
+}
